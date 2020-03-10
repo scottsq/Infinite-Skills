@@ -1,14 +1,14 @@
-<!DOCTYPE html>
+!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8" />
     <title>Infinite skills</title>
-    <link rel="stylesheet" href="./bootstrap-4.4.1-dist/css/bootstrap.min.css">
-    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="./src/lib/bootstrap-4.4.1-dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="./src/styles/main.css">
 
-    <script src="./JQuery-3.4.1/JQuery.min.js"></script>
-    <script src="bootstrap-4.4.1-dist/js/bootstrap.bundle.min.js"></script>
-    <script src="bootstrap-4.4.1-dist/js/bootstrap.min.js"></script>
+    <script src="./src/lib/JQuery-3.4.1/JQuery.min.js"></script>
+    <script src="./src/lib/bootstrap-4.4.1-dist/js/bootstrap.bundle.min.js"></script>
+    <script src="./src/lib/bootstrap-4.4.1-dist/js/bootstrap.min.js"></script>
   </head>
   <body>
     <header class="sticky-top">
